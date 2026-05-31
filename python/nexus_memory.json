@@ -1,0 +1,98 @@
+[
+    {
+        "text": "close pc",
+        "is_user": true
+    },
+    {
+        "text": "Command syntax unrecognized in hardware core.",
+        "is_user": false
+    },
+    {
+        "text": "volume max",
+        "is_user": true
+    },
+    {
+        "text": "Nexus AI: Volume error -> 'AudioDevice' object has no attribute 'Activate'",
+        "is_user": false
+    },
+    {
+        "text": "volume max",
+        "is_user": true
+    },
+    {
+        "text": "Nexus AI: Volume error -> 'AudioDevice' object has no attribute 'Activate'",
+        "is_user": false
+    },
+    {
+        "text": "open happ",
+        "is_user": true
+    },
+    {
+        "text": "Nexus AI: 'happ' could not be found.",
+        "is_user": false
+    },
+    {
+        "text": "open Happ",
+        "is_user": true
+    },
+    {
+        "text": "Nexus AI: 'Happ' could not be found.",
+        "is_user": false
+    },
+    {
+        "text": "open Lenovo Now DIscovery",
+        "is_user": true
+    },
+    {
+        "text": "Nexus AI: 'Lenovo Now DIscovery' could not be found.",
+        "is_user": false
+    },
+    {
+        "text": "Open word",
+        "is_user": true
+    },
+    {
+        "text": "Nexus AI: 'word' could not be found.",
+        "is_user": false
+    },
+    {
+        "text": "open notepad",
+        "is_user": true
+    },
+    {
+        "text": "Nexus AI: Opening 'notepad'...",
+        "is_user": false
+    },
+    {
+        "text": "volume max",
+        "is_user": true
+    },
+    {
+        "text": "Nexus AI: Volume error -> 'AudioDevice' object has no attribute 'Activate'",
+        "is_user": false
+    },
+    {
+        "text": "open happ",
+        "is_user": true
+    },
+    {
+        "text": "Nexus AI: Opening 'happ'...",
+        "is_user": false
+    },
+    {
+        "text": "open happ",
+        "is_user": true
+    },
+    {
+        "text": "Nexus AI: Opening 'happ'...",
+        "is_user": false
+    },
+    {
+        "text": "open chrome search gemini",
+        "is_user": true
+    },
+    {
+        "text": "Nexus AI: Chrome opened. Searching for 'gemini'...",
+        "is_user": false
+    }
+]
